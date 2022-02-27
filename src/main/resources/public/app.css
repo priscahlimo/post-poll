@@ -1,8 +1,13 @@
 body{
        background-color:violet;
         height: 100vh;
+<<<<<<< HEAD
 
         background-size: cover;
+=======
+        background-repeat: no-repeat;
+
+>>>>>>> 28131866331ac5701d6390c7c59aa4831d14e974
         background-position: center;
         font-family: 'Sansita', sans-serif;
         color: white;
